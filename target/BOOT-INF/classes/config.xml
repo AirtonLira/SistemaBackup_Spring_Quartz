@@ -1,0 +1,8 @@
+<configuracoes>
+	<diretorios path="/home/airtonlirajr/Área de Trabalho/diretorio1"></diretorios>
+	<diretorios path="/home/airtonlirajr/Área de Trabalho/diretorio2"></diretorios>
+	<backup path="/home/airtonlirajr/Área de Trabalho/backup1/" MaxFiles="20" RemoveFiles="10"></backup>
+	<backup path="/home/airtonlirajr/Área de Trabalho/backup2/" MaxFiles="20" RemoveFiles="10"></backup>
+	<logs path="/home/airtonlirajr/Área de Trabalho/logs/logapplication.txt"></logs>
+</configuracoes>
+
